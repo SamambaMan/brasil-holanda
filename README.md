@@ -1,3 +1,5 @@
+# 🇧🇷➡️🇳🇱
+
 # Introdução
 
 O primeiro passo no processo de mudança de profissional de TI para os Países Baixos é passar num processo seletivo e assinar um contrato de trabalho. Ao contrário de outros países como [Portugal](https://github.com/nighto/brasil-portugal) o pedido de visto é feito pelo empregador, tipicamente através de uma empresa terceira especializada nessa burocracia, como por exemplo a [Yellowstone](https://yellowstone.nl/).
